@@ -1,3 +1,9 @@
+# ⚠️ This repository has moved
+
+Now part of the [human-ai-reliance](https://github.com/LLM-Reliance-Project/human-ai-reliance) monorepo, under [`post-study-analysis/`](https://github.com/LLM-Reliance-Project/human-ai-reliance/tree/main/post-study-analysis). Full commit history was preserved. This repo is archived and read-only.
+
+---
+
 # Post-Study Analysis
 
 Statistical analysis pipeline for the **Human-AI Reliance** study ([SHARE Lab](https://uwshare-lab.ca), University of Waterloo). Processes engagement metrics from the Supabase chat database, identifies non-engagers for sensitivity filtering, and runs the primary/secondary MLM analyses on observed and perceived reliance.
