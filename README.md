@@ -1,6 +1,6 @@
 # ⚠️ This repository has moved
 
-Now part of the [human-ai-reliance](https://github.com/LLM-Reliance-Project/human-ai-reliance) monorepo, under [`post-study-analysis/`](https://github.com/LLM-Reliance-Project/human-ai-reliance/tree/main/post-study-analysis). Full commit history was preserved. This repo is archived and read-only.
+Now part of the [human-ai-reliance](https://github.com/uw-share-lab/human-ai-reliance) monorepo, under [`post-study-analysis/`](https://github.com/uw-share-lab/human-ai-reliance/tree/main/post-study-analysis). Full commit history was preserved. This repo is archived and read-only.
 
 ---
 
